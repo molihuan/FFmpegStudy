@@ -8,3 +8,9 @@
 
 源码：[HiFFmpeg/](HiFFmpeg/)
 
+2、合并音频和视频
+
+文档：[doc/合并音频和视频.md](doc/合并音频和视频.md)
+
+源码：[MergeAudioVideo/](MergeAudioVideo/)
+
